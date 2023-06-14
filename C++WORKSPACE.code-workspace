@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		}
+	],
+	"settings": {
+		"code-runner.saveAllFilesBeforeRun": true,
+		"code-runner.saveFileBeforeRun": true,
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
